@@ -1,6 +1,6 @@
 # Social-Feedback-weight-loss-community
 
-In this notebook we demonstrate the use of "matching" when using observational data to estimate the effect size of receiving a "treatment" vs. not receiving a treatment, i.e. being in the "control" group. The vast majority of this notebook has been put together by Tiago Cunha. https://sites.google.com/site/tiagocunha87/
+In this notebook we demonstrate the use of "matching" when using observational data to estimate the effect size of receiving a "treatment" vs. not receiving a treatment, i.e. being in the "control" group. The vast majority of this notebook has been put together by Tiago Cunha(https://sites.google.com/site/tiagocunha87/) with contributions of Ingmar Weber (https://ingmarweber.de/)
 
 In this concrete example we use real data from the Reddit community called "loseit", an online forum dedicated to weight loss. https://www.reddit.com/r/loseit/
 
